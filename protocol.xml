@@ -429,7 +429,7 @@ Tested on (9.5.0.0-7867-CU11) and works.
 						<MajorVersions>
 							<MajorVersion id="4">
 								<MinorVersions>
-									<MinorVersion id="1" basedOn="1.0.0.1">
+									<MinorVersion id="1" basedOn="None">
 										<Date>2023-07-28</Date>
 										<Provider>
 											<Author>JST</Author>
